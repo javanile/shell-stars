@@ -1,1 +1,2 @@
-# shell-stars
+# Shell Stars
+
